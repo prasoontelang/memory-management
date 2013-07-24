@@ -1,3 +1,6 @@
+/*
+ * Author: Prasoon Telang
+ */
 #include <stdio.h>
 #include <stdlib.h>
 
